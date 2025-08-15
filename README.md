@@ -4,7 +4,7 @@ Marsyard paketini çalıştırmak için GIT Large File Storage indirin kurlumu b
 
 ## GIF
 
-![Simulation demo](gifs/ScreenRecording_08-15-2025 17-26-47_1.gif)
+![Simulation demo](gifs/sim.gif)
 
 
 ## Giriş
