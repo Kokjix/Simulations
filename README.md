@@ -1,6 +1,9 @@
 # Simulations
 ## ÖNEMLİ!!!
 Marsyard paketini çalıştırmak için GIT Large File Storage indirin kurlumu burada [https://drive.google.com/file/d/1v8TXeXEdQh3YSndxKcN7ITRKnqt_aL_D/view?usp=sharing](https://drive.google.com/file/d/1v8TXeXEdQh3YSndxKcN7ITRKnqt_aL_D/view?usp=sharing)
+
+## GIF
+
 ## Giriş
 
 Marsyard paketi için blender_gazebo adında bir paket lazımdır fakat bu başka bir repodan submodule olarak çekilmektedir o yüzden bu repo aşagodaki kod ile workspace'e clonelanmalı.
